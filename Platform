@@ -1,0 +1,39 @@
+Platform
+
+Boardroom
+Epoch duration: 6 hours
+
+Deposits / Withdrawal of CATSHARE into the Boardroom will lock CATSHARE for 4 epochs (24hrs) and CATCOIN rewards for 2 epochs (12hrs). 
+The above is the same for CATCOIN rewards claiming, this will lock staked CATSHARE for 4 epochs (24hrs) and the next CATCOIN rewards can only be claimed after 2 epochs (12hrs).
+Distribution of CATCOIN  during Expansion
+80% as Reward for Boardroom CATSHARE stakers
+20% goes to NFT Staking Contracts
+
+Epoch Expansion: Current expansion cap base on CATCOIN supply, if there are bonds to be redeemed, 65% of minted CATCOIN goes to treasury until it’s sufficiently full to meet bond redemption. If there is no debt it will follow max capped expansion rate.
+Boardroom UI Information
+Next Epoch indicates a countdown timer to the next calculation of seigniorage. (Each epoch duration lasts for 6 hours)                                                                                                               
+APR refers to the simple returns in USD value relative to the amount of CATSHARE staked (USD value).
+Note: APR fluctuates from time to time and is dependent on certain factors such as:
+Price of CATCOIN
+Price of CATSHARE 
+Amount of CATSHARE staked in Boardroom
+Boardroom on Contraction Periods
+The Boardroom will not mint any CATCOIN while TWAP < 1.01
+Boardroom on Debt Phase
+
+Debt Phase takes place on the expansion epochs that start after a contraction period where there are still CATBONDs to be redeemed.
+65% of Expansion during Debt Phase is allocated to the Treasury Fund to prepare for the CATBOND Redemption. 
+This amount is still reserved whether or not CATBOND holders are redeeming bonds or not. Once CATCOIN in treasury is sufficiently full to meet all circulating bond redemption, expansion rates will resume too normal.
+CATBOND emitted per epoch during contraction periods can be found on Regulations.
+Shares 
+Allocations may change.
+Stake your LP to earn CATSHARE share tokens
+Shares Pools (Shares Reward) available for 12 months:                                                                                                                                                                  
+CATCOIN-USDC LP: 18000 Shares
+CATSHARE-USDC LP: 17000 Shares
+CATSHARE-CATCOIN LP: 6000 Shares
+Bonds
+CATBONDs are available for purchase when CATCOIN falls below the peg. If CATCOIN's TWAP is between 1.00 and 1.01, neither CATBOND nor CATCOIN will be issued.
+e.g. if CATCOIN TWAP < 1, exchange CATCOIN for CATCOIN will be in a 1:1 ratio.
+CATBOND are available for redemption when CATCOIN goes above the 1 USDC peg.
+To encourage redemption of CATBOND for CATCOIN when CATCOIN TWAP > 1.1 and incentivize users to redeem at a higher price, CATBOND redemption will be more profitable with a higher CATCOIN TWAP value, of which CATBOND to CATCOIN ratio will be 1:R, where R can be calculated in the formula as shown below where coeff = 0.7.
