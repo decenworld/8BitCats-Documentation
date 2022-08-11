@@ -9,3 +9,10 @@
 - Good job well done, Congrats!
 
 *Note : Do not make any changes in **README** and **CONTRIBUTION** file*
+
+# Do not create any invalid Pull requests.
+
+# Github Contribution Rules:
+
+- Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
+- The pull request must contain commits you made yourself.
