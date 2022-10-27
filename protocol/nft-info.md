@@ -30,8 +30,6 @@ For more details see: [https://8bitcats.com/boardroom](https://8bitcats.com/boar
 <b>DIAMOND STONE \[ALWAYS HIGHEST CATSHARE REWARD] \
 ![](../.gitbook/assets/crystal1.png)\
 [https://www.8bitcats.com/diamondstone](https://www.8bitcats.com/diamondstone)\
-
-
 \
 <b>SEALS \
 [CAT SHARE REWARDS ARE HIGH MULTIPLE NFT AIRDROPS CAN HAPPEN]  </b>\
