@@ -1,24 +1,27 @@
 # NFT Info
 
-NFT CAT COIN FARMS: \\
+# NFT CAT COIN FARMS:
 
-\
-CAT STATUE \[ALWAYS HIGHEST CATCOIN REWARD]\
+<b> CAT STATUE \
+[ALWAYS HIGHEST CATCOIN REWARD] </b>\
 <img src="../.gitbook/assets/golden1.png" alt="" data-size="original">\
 [https://www.8bitcats.com/catstatue](https://www.8bitcats.com/catstatue)\
 \
-CRYPTOMAN \[GETS ALL THE SMALL AIRDROPS/LOWEST PRICE]\
+<b>CRYPTOMAN \
+[GETS ALL THE SMALL AIRDROPS/LOWEST PRICE] </b>\
 \[FIRST NFT TO APPEAR IN THE GAME]\
-![](https://www.8bitcats.com/static/media/example.ad6c254c.gif)\
-[https://www.8bitcats.com/cryptoman](https://www.8bitcats.com/cryptoman) \\
+<img src="https://www.8bitcats.com/static/media/example.ad6c254c.gif" width="150" height=150 /> \
+[https://www.8bitcats.com/cryptoman](https://www.8bitcats.com/cryptoman) \
 
 \
-FANTOMLLAMA \[OG AIRDROP TOKEN STILL GOOD REWARD]\
-![](https://8bitcats.com/static/media/example.5411a699.gif)\
+<b> FANTOMLLAMA \
+[OG AIRDROP TOKEN STILL GOOD REWARD] </b>\
+<img src="https://8bitcats.com/static/media/example.5411a699.gif" width="150" height=150 /> \
 [https://www.8bitcats.com/fantomllama](https://www.8bitcats.com/fantomllama)\
 \
-8-BIT CATS \[GIVES CATCOIN, RARE NFT]\
-![](https://8bitcats.com/static/media/example.5df537bf.gif)\
+<b>8-BIT CATS \
+[GIVES CATCOIN, RARE NFT] </b>\
+<img src="https://8bitcats.com/static/media/example.5df537bf.gif" width="150" height=150 /> \
 [https://www.8bitcats.com/cats](https://www.8bitcats.com/cats)\
 \
 Rewards for CATCOIN NFTs are adjusted accordingly to the inflation/deflation of catcoin. For more details see: [https://8bitcats.com/boardroom](https://8bitcats.com/boardroom)\
