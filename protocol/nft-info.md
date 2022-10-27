@@ -1,6 +1,6 @@
 # NFT Info
 
-# NFT CAT COIN FARMS:
+# CAT COIN FARMS:
 
 <b> CAT STATUE \
 [ALWAYS HIGHEST CATCOIN REWARD] </b>\
@@ -11,8 +11,7 @@
 [GETS ALL THE SMALL AIRDROPS/LOWEST PRICE] </b>\
 \[FIRST NFT TO APPEAR IN THE GAME]\
 <img src="https://www.8bitcats.com/static/media/example.ad6c254c.gif" width="150" height=150 /> \
-[https://www.8bitcats.com/cryptoman](https://www.8bitcats.com/cryptoman) \
-
+[https://www.8bitcats.com/cryptoman](https://www.8bitcats.com/cryptoman)\
 \
 <b> FANTOMLLAMA \
 [OG AIRDROP TOKEN STILL GOOD REWARD] </b>\
@@ -24,21 +23,32 @@
 <img src="https://8bitcats.com/static/media/example.5df537bf.gif" width="150" height=150 /> \
 [https://www.8bitcats.com/cats](https://www.8bitcats.com/cats)\
 \
-Rewards for CATCOIN NFTs are adjusted accordingly to the inflation/deflation of catcoin. For more details see: [https://8bitcats.com/boardroom](https://8bitcats.com/boardroom)\
+Rewards for CATCOIN NFTs are adjusted accordingly to the inflation/deflation of catcoin. \
+For more details see: [https://8bitcats.com/boardroom](https://8bitcats.com/boardroom) 
+# CAT SHARES FARMS:
 \
-NFT CAT SHARES FARMS:\
-\
-DIAMOND STONE \[ALWAYS HIGHEST CATSHARE REWARD] \
+<b>DIAMOND STONE \[ALWAYS HIGHEST CATSHARE REWARD] \
 ![](../.gitbook/assets/crystal1.png)\
 [https://www.8bitcats.com/diamondstone](https://www.8bitcats.com/diamondstone)\
 
 
 \
-SEALS \[CAT SHARE REWARDS ARE HIGH MULTIPLE NFT AIRDROPS CAN HAPPEN] [https://www.8bitcats.com/seal](https://www.8bitcats.com/seal)\
+<b>SEALS \
+[CAT SHARE REWARDS ARE HIGH MULTIPLE NFT AIRDROPS CAN HAPPEN]  </b>\
+<img src="https://8bitcats.com/static/media/example.5f54a7d9.gif" width="150" height=150 /> \
+[https://www.8bitcats.com/seal](https://www.8bitcats.com/seal)\
 \
-PENGUIN \[HIGH REWARD, MULTIPLE NFT AIRDROPS CAN HAPPEN]\
+<b>PENGUIN \
+[HIGH REWARD, MULTIPLE NFT AIRDROPS CAN HAPPEN] </b>\
+<img src="https://8bitcats.com/static/media/example.b2c6f9a4.gif" width="150" height=150 /> \
 [https://www.8bitcats.com/penguin](https://www.8bitcats.com/penguin)\
 \
-OWL \[NORMAL REWARD, CAN BE USED AS AN AIRDROP, STILL WORTH HAVING A FEW] [https://www.8bitcats.com/owl](https://www.8bitcats.com/owl)\
+<b>OWL \
+[NORMAL REWARD, CAN BE USED AS AN AIRDROP, STILL WORTH HAVING A FEW] </b>\
+<img src="https://8bitcats.com/static/media/example.304ef009.gif" width="150" height=150 /> \
+[https://www.8bitcats.com/owl](https://www.8bitcats.com/owl)\
 \
-TRIPPY CATS \[NEWEST CAT ON THE BLOCK, RARE AIRDROPS WILL HAPPEN!] [https://www.8bitcats.com/trippycat](https://www.8bitcats.com/trippycat)
+<b>TRIPPY CATS \
+[NEWEST CAT ON THE BLOCK, RARE AIRDROPS WILL HAPPEN!] </b>\
+<img src="https://8bitcats.com/static/media/example.c9f12a30.gif" width="150" height=150 /> \
+[https://www.8bitcats.com/trippycat](https://www.8bitcats.com/trippycat)
