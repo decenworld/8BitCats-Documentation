@@ -5,17 +5,21 @@ NFT CAT COIN FARMS: \
 
 \
 CAT STATUE \[ALWAYS HIGHEST CATCOIN REWARD] \
+<img src="" width="150" height=150 /> \
 [https://www.8bitcats.com/catstatue](https://www.8bitcats.com/catstatue) \
-!\[test]\(https://www.8bitcats.com/static/media/example.ad6c254c.gif=192x102)\
 \
 CRYPTOMAN \[GETS ALL THE SMALL AIRDROPS/LOWEST PRICE] \
 \[FIRST NFT TO APPEAR IN THE GAME] \
+<img src="https://www.8bitcats.com/static/media/example.ad6c254c.gif" width="150" height=150 /> \
 [https://www.8bitcats.com/cryptoman](https://www.8bitcats.com/cryptoman) \
+
 \
 FANTOMLLAMA \[OG AIRDROP TOKEN STILL GOOD REWARD] \
+<img src="https://8bitcats.com/static/media/example.5411a699.gif" width="150" height=150 /> \
 [https://www.8bitcats.com/fantomllama](https://www.8bitcats.com/fantomllama) \
 \
 8-BIT CATS \[GIVES CATCOIN, RARE NFT] \
+<img src="https://8bitcats.com/static/media/example.5df537bf.gif" width="150" height=150 /> \
 [https://www.8bitcats.com/cats](https://www.8bitcats.com/cats) \
 \
 Rewards for CATCOIN NFTs are adjusted accordingly to the inflation/deflation of catcoin. For more details see: [https://8bitcats.com/boardroom](https://8bitcats.com/boardroom) \
