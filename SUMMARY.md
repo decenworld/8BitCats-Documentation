@@ -1,6 +1,6 @@
 # Table of contents
 
-* [8BitCats.com](README.md)
+* [8BitCats.com - Whitepaper](README.md)
 
 ## Protocol
 
