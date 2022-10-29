@@ -23,7 +23,7 @@ description: >-
 
 ## Phase 2
 
-* [x] Airdrop over 1.000.000 Items/Tokens
+* [ ] Airdrop over 1.000.000 Items/Tokens
 * [ ] Chat \[Developing | Testing]
 * [ ] Item usage \[Developing]
 * [ ] Airdrop over 5.000.000 Items/Tokens
