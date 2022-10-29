@@ -5,7 +5,7 @@ description: >-
   Discord server.
 ---
 
-# Roadmap
+# 🗺 Roadmap
 
 ## Phase 1
 

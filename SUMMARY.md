@@ -9,4 +9,4 @@
 * [🖼 NFT Info](protocol/nft-info.md)
 * [🖨 Boardroom](protocol/boardroom.md)
 * [💻 Socials](protocol/socials.md)
-* [Roadmap](protocol/roadmap.md)
+* [🗺 Roadmap](protocol/roadmap.md)
