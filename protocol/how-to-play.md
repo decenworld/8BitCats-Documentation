@@ -4,7 +4,7 @@ description: The aim of 8BitCats is to farm catcoins, gather resources and craft
 
 # 🎮 How to play?
 
-### Get a Animal 🐈
+### Get a Pet 🐈
 
 Before you start to farm you should mint an animal:\
 1\. Move around in the game by using "W", "S", "D", "A". You can also hold mouse/finger on-screen and move around.\
