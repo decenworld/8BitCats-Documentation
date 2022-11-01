@@ -19,7 +19,7 @@ description: >-
 * [x] Release Rare Items
 * [x] Airdrop over 500.000 items/tokens
 * [x] Release Whitepaper/Roadmap
-* [ ] Mint NFT's for algorithmic stable coin.
+* [x] Mint NFT's for algorithmic stable coin.
 
 ## Phase 2
 
