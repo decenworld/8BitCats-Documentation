@@ -4,6 +4,7 @@
 
 ## Protocol
 
+* [🎮 How to play?](protocol/how-to-play.md)
 * [🪙 Tokens](protocol/tokens.md)
 * [💰 How to Provide Liquidity](protocol/how-to-provide-liquidity.md)
 * [🖼 NFT Info](protocol/nft-info.md)
