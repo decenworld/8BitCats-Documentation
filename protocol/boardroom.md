@@ -1,9 +1,9 @@
 # 🖨 Boardroom
 
-**Epoch duration:** 6 hours
+The Boardroom is a feature within 8-Bit Cats that allows players to earn rewards by staking their CATSHARE and CATCOIN tokens. Each epoch in the Boardroom lasts for 6 hours, and during this time, deposits and withdrawals of CATSHARE will be locked for 4 epochs (24 hours). Similarly, claiming CATCOIN rewards will lock staked CATSHARE for 4 epochs (24 hours) and the next CATCOIN rewards can only be claimed after 2 epochs (12 hours).
 
-Deposits / Withdrawal of CATSHARE into the Boardroom will lock CATSHARE for 4 epochs (24hrs) and CATCOIN rewards for 2 epochs (12hrs). The above is the same for CATCOIN rewards claiming, this will lock staked CATSHARE for 4 epochs (24hrs) and the next CATCOIN rewards can only be claimed after 2 epochs (12hrs).
+The expansion of the Boardroom is based on the supply of CATCOIN, with a cap that is determined by the current bond redemption rate. If there are bonds to be redeemed, 65% of minted CATCOIN will go to the treasury until it is sufficient to meet the bond redemption requirements. If there is no debt, the expansion will follow the maximum capped expansion rate.
 
-**Epoch Expansion:** Current expansion cap base on CATCOIN supply, if there are bonds to be redeemed, 65% of minted CATCOIN goes to treasury until it’s sufficiently full to meet bond redemption. If there is no debt it will follow max capped expansion rate.
+The Boardroom user interface includes a countdown timer to the next calculation of seigniorage, as well as an annual percentage rate (APR) that reflects the simple returns in USD value based on the amount of CATSHARE staked. **Please note that the APR may fluctuate due to factors such as the price of CATCOIN, the price of CATSHARE, and the amount of CATSHARE staked in the Boardroom.**
 
-**Boardroom UI Information:** Next Epoch indicates a countdown timer to the next calculation of seigniorage. (Each epoch duration lasts for 6 hours) APR refers to the simple returns in USD value relative to the amount of CATSHARE staked (USD value). Note: APR fluctuates from time to time and is dependent on certain factors such as: Price of CATCOIN Price of CATSHARE Amount of CATSHARE staked in Boardroom Boardroom on Contraction Periods The Boardroom will not mint any CATCOIN while TWAP < 1.01
+During contraction periods, the Boardroom will not mint any CATCOIN while the time-weighted average price (TWAP) is less than 1.01.

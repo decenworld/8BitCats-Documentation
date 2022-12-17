@@ -6,17 +6,7 @@ description: >-
 
 # 8BitCats.com - Whitepaper
 
-Welcome to 8-Bit Cats, a decentralized gaming ecosystem powered by the Fantom blockchain. Our community-driven platform allows players to buy, sell, and play with their NFTs (non-fungible tokens) in various ways, including through virtual farms, decorations, and other in-game items.
-
-As a metaverse game, 8-Bit Cats also enables players to mint and stake unique animal NFTs to earn rewards. In the game, players can customize and personalize their NFTs with unique attributes and abilities, and trade and exchange them with other players on the marketplace.
-
-8-Bit Cats integrates real-world assets and experiences, such as virtual real estate and in-game events, and offers social features like chat and leaderboards to foster a sense of community. Players can also participate in mini-games and activities to earn rewards and unlock new content.
-
-Leveraging blockchain technology, 8-Bit Cats ensures the security and transparency of player assets and transactions within the game. \
-\
-The game also incorporates procedurally generated or randomly determined elements to create a sense of unpredictability and replayability.
-
-Join us and discover the endless possibilities of blockchain gaming within the 8-Bit Cats universe.
+8-Bit Cats is a decentralised, community-driven gaming eco system where users can share and play with their NFTs on the Fantom blockchain. Here players can buy/sell and play with different assets around their nfts such as, farms, decorations, items and much more.
 
 [https://8bitcats.com](https://8bitcats.com/)
 
@@ -28,8 +18,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [tokens.md](protocol/tokens.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="protocol/how-to-provide-liquidity.md" %}
+[how-to-provide-liquidity.md](protocol/how-to-provide-liquidity.md)
 {% endcontent-ref %}
 
 {% content-ref url="protocol/nft-info.md" %}
