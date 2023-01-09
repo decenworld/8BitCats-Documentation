@@ -7,8 +7,8 @@ description: >-
 # 8BitCats.com - Whitepaper
 
 Welcome to 8-Bit Cats, a decentralized gaming ecosystem powered by the Fantom blockchain. Our community-driven platform allows players to buy, sell, and play with their NFTs (non-fungible tokens) in various ways, including through virtual farms, decorations, and other in-game items.\
-&#x20;                                                   ![](<.gitbook/assets/image (1).png>)\
-
+\
+&#x20;                                                   ![](<.gitbook/assets/image (1).png>)
 
 As a metaverse game, 8-Bit Cats also enables players to mint and stake unique animal NFTs to earn rewards. In the game, players can customize and personalize their NFTs with unique attributes and abilities, and trade and exchange them with other players on the marketplace.
 
